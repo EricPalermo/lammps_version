@@ -15,4 +15,4 @@ mkdir lammps/build
 cd lammps/build
 #Compile and build lammps
 cmake ../cmake/ -D PKG_OPENMP=yes -D PKG_COLLOID=yes -D PKG_MOLECULE=yes -D PKG_UEF=yes -D PKG_UEFEX=yes -D PKG_MISC=yes -D PKG_RIGID=yes -D PKG_NETCDF=yes
-cmake --build .
+cmake --build . -j8
