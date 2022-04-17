@@ -1,0 +1,6 @@
+[submodule "lammps_nano/LAMMPS-UEFEX"]
+	path = lammps_nano/LAMMPS-UEFEX
+	url = https://github.com/t-murash/LAMMPS-UEFEX.git
+[submodule "lammps_nano/lammps"]
+	path = lammps_nano/lammps
+	url = https://github.com/lammps/lammps.git
