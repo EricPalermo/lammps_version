@@ -4,3 +4,9 @@
 [submodule "lammps_nano/lammps"]
 	path = lammps_nano/lammps
 	url = https://github.com/lammps/lammps.git
+[submodule "lammps_rheo/RHEO"]
+	path = lammps_rheo/RHEO
+	url = https://github.com/ThomasCOConnor/RHEO.git
+[submodule "lammps_rheo/lammps"]
+	path = lammps_rheo/lammps
+	url = https://github.com/lammps/lammps.git
