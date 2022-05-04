@@ -13,3 +13,6 @@
 [submodule "lammps_nano_tersoff/lammps"]
 	path = lammps_nano_tersoff/lammps
 	url = https://github.com/lammps/lammps
+[submodule "lammps_nano_tersoff/LAMMPS-UEFEX"]
+	path = lammps_nano_tersoff/LAMMPS-UEFEX
+	url = https://github.com/t-murash/LAMMPS-UEFEX
