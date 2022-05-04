@@ -5,7 +5,9 @@ module load cmake/3.20.3 intel/18.0.0.128 openmpi-intel/4.1 mkl/18.0.0.128
 
 #Initiate and update submodules
 git submodule init
-git submodule update
+git submodule update LAMMPS-UEFEX
+git submodule update lammps
+
 
 #copy external files into src folder
 cp -r LAMMPS-UEFEX/UEFEX/ lammps/src/.
