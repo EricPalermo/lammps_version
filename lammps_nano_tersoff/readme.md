@@ -8,6 +8,7 @@ Custom Packages (generated "in-house"):
 Edits to CMake Files:
 - UEFEX package added to all_off.cmake
 - UEFEX package added to all_on.cmake
+- UEFEX package added to CMakeLists.txt
 - Link to netcdf library added to CMakeLists.txt
 
 
