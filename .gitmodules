@@ -16,3 +16,9 @@
 [submodule "lammps_nano_tersoff/LAMMPS-UEFEX"]
 	path = lammps_nano_tersoff/LAMMPS-UEFEX
 	url = https://github.com/t-murash/LAMMPS-UEFEX
+[submodule "lammps_rheo_inlet/RHEO"]
+	path = lammps_rheo_inlet/RHEO
+	url = https://github.com/ThomasCOConnor/RHEO.git
+[submodule "lammps_rheo_inlet/lammps"]
+	path = lammps_rheo_inlet/lammps
+	url = https://github.com/lammps/lammps.git
