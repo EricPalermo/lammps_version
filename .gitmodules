@@ -10,3 +10,6 @@
 [submodule "lammps_rheo/lammps"]
 	path = lammps_rheo/lammps
 	url = https://github.com/lammps/lammps.git
+[submodule "lammps_nano_tersoff/lammps"]
+	path = lammps_nano_tersoff/lammps
+	url = https://github.com/lammps/lammps
