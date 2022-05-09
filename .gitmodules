@@ -22,3 +22,9 @@
 [submodule "lammps_rheo_inlet/lammps"]
 	path = lammps_rheo_inlet/lammps
 	url = https://github.com/lammps/lammps.git
+[submodule "lammps_rheo_surf_debug/lammps"]
+	path = lammps_rheo_surf_debug/lammps
+	url = https://github.com/lammps/lammps.git
+[submodule "lammps_rheo_surf_debug/RHEO"]
+	path = lammps_rheo_surf_debug/RHEO
+	url = https://github.com/ThomasCOConnor/RHEO.git
